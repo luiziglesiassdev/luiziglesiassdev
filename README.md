@@ -13,8 +13,6 @@
 - 🎓 Estudante do curso técnico em **Informática** no **IFNMG - Campus Teófilo Otoni**.
 - 💻 Experiência no desenvolvimento de aplicações desktop (Java) e Web (HTML, CSS, PHP), além de gerenciamento de banco de dados SQL.
 - 🎨 Fundador da **LG Design** (identidades visuais e design esportivo) e da **Iglesias Tech** (suporte técnico e montagem de computadores).
-- 🗣️ Atuo na liderança estudantil pela chapa **Geração Titãs** e na organização de eventos como a **OSIF** (Olimpíadas Solidárias do IFNMG).
-- 🎯 Focado nos estudos para o concurso da **ESA** e na construção de uma carreira em **Engenharia de Software**.
 
 <br>
 
@@ -29,7 +27,6 @@ Aqui estão as linguagens e ferramentas que utilizo no meu dia a dia:
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   
-  <br><br>
 
   <!-- Softwares & Banco de Dados -->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -37,7 +34,6 @@ Aqui estão as linguagens e ferramentas que utilizo no meu dia a dia:
   <img src="https://img.shields.io/badge/apache_netbeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   
-  <br><br>
 
   <!-- Design e Outros -->
   <img src="https://img.shields.io/badge/Design_Gráfico-FF3366?style=for-the-badge&logo=canva&logoColor=white" alt="Design"/>
