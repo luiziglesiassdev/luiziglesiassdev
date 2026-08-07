@@ -66,7 +66,7 @@ Aqui estão as linguagens e ferramentas que utilizo no meu dia a dia:
   <a href="https://lg-design.webnode.page" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio_LG_Design-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio Webnode"/>
   </a>
-  <a href="mailto:seu_email_aqui@gmail.com" target="_blank">
+  <a href="iglesias328@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
