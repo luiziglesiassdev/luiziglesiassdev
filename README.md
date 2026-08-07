@@ -51,14 +51,6 @@ Aqui estão as linguagens e ferramentas que utilizo no meu dia a dia:
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiziglesiassdev&show_icons=true&theme=tokyonight&locale=pt-br" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiziglesiassdev&layout=compact&theme=tokyonight&locale=pt-br" height="150" alt="Linguagens mais usadas"/>
-</div>
-
-<br>
 
 ## 🌐 Conecte-se comigo
 
